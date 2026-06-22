@@ -48,22 +48,22 @@
 <!-- ============================================================= -->
 <div align="center">
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/het-siddhapura/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/siddhapurahet/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/siddhapurahet" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://het-portfolio-ten.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:hetsiddhapura200@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_RESUME_URL" target="_blank">
+  <a href="https://docs.google.com/document/d/1ZCGb4LrNkvec0nYu3LzSk5se7OH5robV/edit#heading=h.dp3t1d1inpel" target="_blank">
     <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 
@@ -78,11 +78,11 @@
 
 > Full-stack engineer who turns ideas into scalable products people actually use.
 
-I'm a **Software Development Engineer** currently pursuing my **M.S. in Computer Science at Cal State Fullerton**, while building campus-wide platforms used by thousands of students. I love crafting clean React UIs, taming cloud infrastructure on AWS, and sprinkling in a little AI/ML where it earns its keep.
+I'm a **Software Development Engineer** currently pursuing my **M.S. in Computer Science at Cal State Fullerton**, while building campus-wide platforms used by university students. I love crafting clean React UIs, taming cloud infrastructure on AWS, and sprinkling in a little AI/ML where it earns its keep.
 
 - 🔭 **Currently:** building the campus-wide **Associated Students portal** (React + Node + AWS)
-- 🌱 **Learning & leveling up:** distributed systems, Kubernetes, and applied LLMs
-- 🧠 **Strengths:** full-stack web, REST APIs, cloud/DevOps, NLP & deep learning
+- 🌱 **Learning & leveling up:** Distributed systems, and applied LLMs
+- 🧠 **Strengths:** Agentic AI, full-stack web, REST APIs, cloud/DevOps
 - 📄 **Research:** 2 copyrighted projects + an NLP paper under publication
 - 💬 **Ask me about:** React, Node, Django, Spring Boot, Docker, and AWS
 - 📫 **Reach me:** hetsiddhapura200@gmail.com
@@ -167,7 +167,7 @@ I'm a **Software Development Engineer** currently pursuing my **M.S. in Computer
 ## 🚀 Featured Projects
 
 ### 🎬 YouTube Transcript Summarizer
-An NLP tool that **extracts, summarizes, and converts YouTube transcripts into audio** using BERT-based transformer models — improving summarization accuracy ~75% and knowledge retention ~65%. End-to-end deployed with Docker on AWS. *(Research paper under publication.)*
+An NLP tool that **extracts, summarizes, and converts YouTube transcripts into audio** using BERT-based transformer models, improving summarization accuracy ~75% and knowledge retention ~65%. End-to-end deployed with Docker on AWS. *(Research paper under publication.)*
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -175,12 +175,10 @@ An NLP tool that **extracts, summarizes, and converts YouTube transcripts into a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_YT_SUMMARIZER_REPO_URL)
-
 ---
 
-### 🥔 Smart Potato — Make Learning Fun
-A **full-stack learning platform** with personalized analytics dashboards, an AI-driven study-path recommender (LSTM), and contests — lifting student engagement 25%+ and cutting grading turnaround 25%. CI/CD via Jenkins; PostgreSQL indexing for 40% faster queries. *(Copyrighted.)*
+### 🥔 Smart Potato: Make Learning Fun
+A **full-stack learning platform** with personalized analytics dashboards, an AI-driven study-path recommender (LSTM), and contests, lifting student engagement 25%+ and cutting grading turnaround 25%. CI/CD via Jenkins; PostgreSQL indexing for 40% faster queries. *(Copyrighted.)*
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -188,11 +186,12 @@ A **full-stack learning platform** with personalized analytics dashboards, an AI
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_SMART_POTATO_REPO_URL)
+[![View Repo](https://smartpotato.vercel.app//badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]
+
 
 ---
 
-### 🕉️ Global Jain Community Connect
+### Global Jain Community Connect
 A **digital community platform** with real-time event calendars, online services, and a centralized directory for **1,000+ members** — ~18% engagement lift, 22% faster page loads, and 99% uptime via AWS Load Balancer + Auto Scaling.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -201,7 +200,7 @@ A **digital community platform** with real-time event calendars, online services
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_JAIN_CONNECT_REPO_URL)
+[![View Repo](https://shreemanharplotjainsangh.com/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]
 
 
 <!-- ============================================================= -->
