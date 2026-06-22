@@ -16,9 +16,14 @@
 <!-- 👉 EDIT: change text= to your name. customColorList sets the  -->
 <!--    gradient; tweak fontSize / desc as you like.               -->
 <!-- ============================================================= -->
-<div align="center">
+<div align="center"> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Het%20Siddhapura&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Het%20Siddhapura&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=58" alt="header" /> 
+
+<!-- <div align="center">
+  <img width="100%" src="./.github/assets/header.svg" alt="Het Siddhapura" />
+</div> -->
+
 
 <!-- ============================================================= -->
 <!-- 👀 PROFILE VIEW COUNTER                                        -->
