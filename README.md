@@ -186,13 +186,13 @@ A **full-stack learning platform** with personalized analytics dashboards, an AI
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-[![View Repo](https://smartpotato.vercel.app//badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smartpotato.vercel.app/)
 
 
 ---
 
 ### Global Jain Community Connect
-A **digital community platform** with real-time event calendars, online services, and a centralized directory for **1,000+ members** — ~18% engagement lift, 22% faster page loads, and 99% uptime via AWS Load Balancer + Auto Scaling.
+A **digital community platform** with real-time event calendars, online services, and a centralized directory for **1,000+ members**. ~18% engagement lift, 22% faster page loads, and 99% uptime via AWS Load Balancer + Auto Scaling.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -200,7 +200,7 @@ A **digital community platform** with real-time event calendars, online services
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-[![View Repo](https://shreemanharplotjainsangh.com/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shreemanharplotjainsangh.com)
 
 
 <!-- ============================================================= -->
@@ -209,16 +209,16 @@ A **digital community platform** with real-time event calendars, online services
 <!-- ============================================================= -->
 ## 💼 Experience
 
-**🟢 Student Software Engineer** — *California State University* · `Aug 2025 – Present`
+**🟢 Student Software Engineer**: *California State University* · `Aug 2025 – Present`
 Building the campus-wide Associated Students portal (React + Node), migrating the event system to Docker/AWS (−40% deploy time, 99.9% uptime), and automating auth for 1,000+ daily users.
 
-**🏥 Software Development Engineer** — *Aarogram Pvt. Ltd.* · `Aug 2024 – Apr 2025`
+**🏥 Software Development Engineer**: *Aarogram Pvt. Ltd.* · `Aug 2024 – Apr 2025`
 Shipped a patient-management system (React + Django) for 50+ admins over 1,000+ records; sped up APIs ~10% with optimized SQL + Redis caching and centralized content via Strapi.
 
-**🤖 Software Development Engineer** — *Ishitva Robotic Systems* · `Jul 2023 – May 2024`
+**🤖 Software Development Engineer**: *Ishitva Robotic Systems* · `Jul 2023 – May 2024`
 Engineered a Spring Boot + WebSocket data pipeline to AWS (−23% downtime), automated file sync with rClone + EFS, and drove 80% test coverage with Jest (−20% production bugs).
 
-**🔬 R&D Intern** — *Simon Fraser University* · `Jan 2022 – Aug 2022`
+**🔬 Research & Development Intern**: *Simon Fraser University* · `Jan 2022 – Aug 2022`
 Built "Smart Potato," an AI-driven learning app (LSTM/TensorFlow) with dashboards and a path recommender that grew student engagement 25%+.
 
 
@@ -228,7 +228,7 @@ Built "Smart Potato," an AI-driven learning app (LSTM/TensorFlow) with dashboard
 <!-- ============================================================= -->
 ## 🎓 Education
 
-🎓 **M.S. in Computer Science** — *California State University, Fullerton* · `Aug 2025 – Present`
+🎓 **M.S. in Computer Science** - *California State University, Fullerton* · `Aug 2025 – Present`
 
 
 <!-- ============================================================= -->
@@ -314,7 +314,7 @@ Built "Smart Potato," an AI-driven learning app (LSTM/TensorFlow) with dashboard
 <!-- ============================================================= -->
 <div align="center">
 
-### ✨ Thanks for stopping by — let's build something great together!
+### ✨ Thanks for stopping by - let's build something great together!
 
 <i>"First, solve the problem. Then, write the code."</i>
 
